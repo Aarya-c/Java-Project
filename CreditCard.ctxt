@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CreditCard
+comment0.text=Description\ \:\ -The\ CreditCard\ class\ is\ a\ subclass\ of\ the\ BankCard\ class\ and\ has\ six\ attributes.\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ -They\ are\ CVCnumber,\ CreditLimit,\ InterestRate,\ ExpirationDate,\ GracePeriod\ and\ isGranted.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ -The\ constructor\ accepts\ eight\ parameters\ which\ are\ the\ CardID,\ ClientName,\ IssuerBank,BankAccount,\ BalanceAmount\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ,CVCnumber,\ InterestRate\ and\ ExpirationDate.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ -Each\ of\ the\ six\ attributes\ have\ private\ accessor\ modifier\ \n\n\ @author\ \:\ 22067120_Arya\ Chaudhary\n\ \n
+comment1.params=CardID\ ClientName\ IssuerBank\ BankAccount\ BalanceAmount\ CVCnumber\ InterestRate\ ExpirationDate
+comment1.target=CreditCard(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ double,\ java.lang.String)
+comment10.params=
+comment10.target=void\ display()
+comment2.params=
+comment2.target=int\ getCVCnumber()
+comment3.params=
+comment3.target=double\ getCreditLimit()
+comment4.params=
+comment4.target=double\ getInterestRate()
+comment5.params=
+comment5.target=java.lang.String\ getExpirationDate()
+comment6.params=
+comment6.target=int\ getGracePeriod()
+comment7.params=
+comment7.target=boolean\ getisGranted()
+comment8.params=CreditLimit\ GracePeriod
+comment8.target=void\ setCreditLimit(double,\ int)
+comment9.params=
+comment9.target=void\ cancelCreditCard()
+numComments=11

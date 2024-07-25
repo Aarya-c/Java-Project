@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=BankCard
+comment0.text=Description\:\ -The\ BankCard\ class\ has\ five\ attributes,\ which\ correspond\ to\ the\ CardID,\ ClientName,\ IssuerBank,\ BankAccount\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ BalanceAmount.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ -The\ ClientName,IssuerBank\ and\ BankAccount\ are\ each\ represented\ as\ a\ string\ of\ text\ and\ CardID,BalanceAmount\ as\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ a\ number.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ -The\ BalanceAmount,\ CardID,BankAccount\ and\ IssuerBank\ are\ initialized\ in\ the\ constructor\ by\ being\ assigned\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ value\ of\ the\ constructor\ parameters.\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ -The\ ClientName\ is\ initialized\ with\ empty\ string\ in\ the\ constructor.\n\n\ @author\ \:\ 22067120_Arya\ Chaudhary\n\ \n
+comment1.params=BalanceAmount\ CardID\ BankAccount\ IssuerBank
+comment1.target=BankCard(int,\ int,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=void\ display()
+comment2.params=
+comment2.target=int\ getCardID()
+comment3.params=
+comment3.target=int\ getBalanceAmount()
+comment4.params=
+comment4.target=java.lang.String\ getBankAccount()
+comment5.params=
+comment5.target=java.lang.String\ getClientName()
+comment6.params=
+comment6.target=java.lang.String\ getIssuerBank()
+comment7.params=ClientName
+comment7.target=void\ setClientName(java.lang.String)
+comment8.params=BalanceAmount
+comment8.target=void\ setBalanceAmount(int)
+comment9.params=
+comment9.target=void\ BankCard()
+numComments=11

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=DebitCard
+comment0.text=Description\ \:\ -The\ DebitCard\ class\ is\ also\ a\ subclass\ of\ the\ BankCard\ class\ and\ has\ four\ attributes.\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ -They\ are\ PINnumber,\ WithdrawalAmount,\ DateofWithdrawal\ and\ hasWithdrawn.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ -The\ constructor\ accepts\ six\ parameters\ which\ are\ the\ BalanceAmount,\ CardID,\ BankAccount,IssuerBank,\ ClientName\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ PINnumber.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ -Each\ of\ the\ four\ attributes\ have\ private\ accessor\ modifier\ \n\n\ @author\ \:\ 22067120_Arya\ Chaudhary\n
+comment1.params=BalanceAmount\ CardID\ BankAccount\ IssuerBank\ ClientName\ PINnumber
+comment1.target=DebitCard(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getPINnumber()
+comment3.params=
+comment3.target=int\ getWithdrawalAmount()
+comment4.params=
+comment4.target=java.lang.String\ getDateofWithdrawal()
+comment5.params=
+comment5.target=boolean\ gethasWithdrawn()
+comment6.params=WithdrawalAmount
+comment6.target=void\ setWithdrawalAmount(int)
+comment7.params=WithdrawalAmount\ DateofWithdrawal\ PINnumber
+comment7.target=void\ Withdraw(int,\ java.lang.String,\ int)
+comment8.params=
+comment8.target=void\ display()
+numComments=9
